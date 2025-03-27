@@ -4,28 +4,7 @@
 
 <h3 align="center">👨🏾‍💻- I am a Full stack desktop developer using .NET Framework, C#, SQL Server.</h3>
 
-###
 
-<br clear="both">
-
-<h3 align="left">My Profiles :</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/marwan-alawlaqi-0890192b5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@MarwanAl-awlaki" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="50" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="center">Email : Marwanalawlaki2@gmail.com</h2>
-
-###
 
 <h3 align="left">Languages :</h3>
 
